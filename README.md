@@ -6,7 +6,7 @@ You send it a text, it will return you the content as a telegram sticker. A work
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Cloning and Run:
-1. `git clone https://github.com/eyaadh/stickerBot.git`, to clone the repository.
+1. `git clone https://github.com/Anonymouscoderboy/sticker_bot`, to clone the repository.
 2. `cd stickerBot`, to enter the directory.
 3. `pip3 install -r requirements.txt`, to install rest of the dependencies/requirements.
 4. Create a new `config.ini` using the sample available at `config.ini.sample`.
